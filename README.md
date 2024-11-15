@@ -3,10 +3,6 @@ Bussines Domain : Mobile App Wisata Indonesia
 Bussines Process : Membantu wisatawan dalam menemukan dan mengakses informasi terperinci mengenai tempat-tempat wisata di Indonesia.
 Date: 15 - November - 2024
 
-<<<<<<< HEAD
-=======
-
->>>>>>> fdfc574 (fresh from oven pak)
 **Introduction**
 
 Indonesia memiliki banyak destinasi wisata menarik yang mencakup keindahan alam, kekayaan budaya, situs bersejarah, dan wisata modern. Namun, wisatawan sering mengalami kesulitan untuk mendapatkan informasi yang jelas, terperinci, dan mudah diakses mengenai destinasi-destinasi tersebut. Aplikasi ini hadir sebagai solusi yang memberikan informasi terstruktur mengenai destinasi wisata di Indonesia, dengan fokus khusus pada daerah Bali dan Yogyakarta.
