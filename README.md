@@ -1,4 +1,5 @@
 **Mobile Apps Pengenalan Wisata Indonesia**
+
 Bussines Domain : Mobile App Wisata Indonesia
 Bussines Process : Membantu wisatawan dalam menemukan dan mengakses informasi terperinci mengenai tempat-tempat wisata di Indonesia.
 Date: 15 - November - 2024
@@ -40,10 +41,7 @@ Wisatawan dapat menemukan informasi destinasi wisata dengan mudah melalui daftar
 1. **Fungsional & Spesifikasi**
 
 **Process Flows**
-<<<<<<< HEAD
-=======
 
->>>>>>> fdfc574 (fresh from oven pak)
 ![Process Flow Mobile App Wisata](assets/images/Flow.png)
 
 **Spesifikasi**
