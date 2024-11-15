@@ -3,6 +3,10 @@ Bussines Domain : Mobile App Wisata Indonesia
 Bussines Process : Membantu wisatawan dalam menemukan dan mengakses informasi terperinci mengenai tempat-tempat wisata di Indonesia.
 Date: 15 - November - 2024
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> fdfc574 (fresh from oven pak)
 **Introduction**
 
 Indonesia memiliki banyak destinasi wisata menarik yang mencakup keindahan alam, kekayaan budaya, situs bersejarah, dan wisata modern. Namun, wisatawan sering mengalami kesulitan untuk mendapatkan informasi yang jelas, terperinci, dan mudah diakses mengenai destinasi-destinasi tersebut. Aplikasi ini hadir sebagai solusi yang memberikan informasi terstruktur mengenai destinasi wisata di Indonesia, dengan fokus khusus pada daerah Bali dan Yogyakarta.
@@ -40,6 +44,10 @@ Wisatawan dapat menemukan informasi destinasi wisata dengan mudah melalui daftar
 1. **Fungsional & Spesifikasi**
 
 **Process Flows**
+<<<<<<< HEAD
+=======
+
+>>>>>>> fdfc574 (fresh from oven pak)
 ![Process Flow Mobile App Wisata](assets/images/Flow.png)
 
 **Spesifikasi**
@@ -50,6 +58,6 @@ Wisatawan dapat menemukan informasi destinasi wisata dengan mudah melalui daftar
 
 Pada bagian ini di gunakan untuk mendefinisikan kelas wisata yang berfungsi sebagai struktur data untuk setiap objek wisata, dan untuk selanjutnya di panggil dan di tampilan pada homepage.
 
-1. Pemilihan data
+4. Pemilihan data
 
 Pada bagian ini digunakan untuk memilih data wisata dengan menggunakan class destinationpage pada yang akan di tampilkan pada bagian pages/destinationpage.
