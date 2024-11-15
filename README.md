@@ -42,7 +42,7 @@ Wisatawan dapat menemukan informasi destinasi wisata dengan mudah melalui daftar
 
 **Process Flows**
 
-![Process Flow Mobile App Wisata](assets/images/Flow.png)
+![Process Flow Mobile App Wisata](lib/assets/images/Flow.png)
 
 **Spesifikasi**
 
